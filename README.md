@@ -1,4 +1,3 @@
-openbox-themes
-==============
+# Openbox 3 Themes
 
-Openbox 3 Themes
+By [Tim Riley](http://openmonkey.com/).
